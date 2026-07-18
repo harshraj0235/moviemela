@@ -2,7 +2,7 @@
 title: "Spirit Movie Release Date Confirmed: Cast, Trailer, Story & Latest Updates"
 date: "2026-07-18"
 excerpt: "Prabhas and Sandeep Reddy Vanga's Spirit is targeting a March 2027 release. Check the latest trailer updates, intense story details, budget, OTT release predictions, and more."
-coverImage: "https://images.unsplash.com/photo-1593005510509-d05b264f1c9c?q=80&w=1200&auto=format&fit=crop"
+coverImage: "https://www.deccanchronicle.com/h-upload/2026/06/24/2055840-prabhas.webp"
 rating: 0
 director: "Sandeep Reddy Vanga"
 ---

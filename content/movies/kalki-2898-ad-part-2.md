@@ -2,7 +2,7 @@
 title: "Kalki 2898 AD Part 2 Release Date Confirmed: Cast, Trailer, Story & Latest Updates"
 date: "2026-07-18"
 excerpt: "Kalki 2898 AD Part 2 is targeting a December 2027 release. Check the latest trailer updates, cast, story details, budget, OTT release predictions, and more."
-coverImage: "https://images.unsplash.com/photo-1618331835717-801e976710b2?q=80&w=1200&auto=format&fit=crop"
+coverImage: "https://i.ytimg.com/vi/ykVWCRJwBcA/maxresdefault.jpg"
 rating: 0
 director: "Nag Ashwin"
 ---
