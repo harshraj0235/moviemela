@@ -61,7 +61,7 @@ export default async function MovieReview({ params }: Params) {
     },
     author: {
       '@type': 'Organization',
-      name: 'CineReview Team',
+      name: 'Moneycal Team',
     },
     reviewRating: {
       '@type': 'Rating',
