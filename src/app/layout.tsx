@@ -50,8 +50,9 @@ export default function RootLayout({
             </Link>
             <div style={{ display: 'flex', gap: '1.5rem', fontWeight: 500 }}>
               <Link href="/">Home</Link>
-              <Link href="#">Movies</Link>
-              <Link href="#">About</Link>
+              <Link href="/">Movies</Link>
+              <Link href="/about">About</Link>
+              <Link href="/contact">Contact</Link>
             </div>
           </div>
         </nav>
@@ -59,6 +60,13 @@ export default function RootLayout({
         <footer className="footer">
           <div className="container">
             <p>&copy; {new Date().getFullYear()} CineReview Premium. All rights reserved.</p>
+            <p style={{ marginTop: '0.5rem', fontSize: '0.8rem', opacity: 0.7 }}>
+              A subsidiary of <a href="https://moneycal.in" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'underline' }}>moneycal.in</a>
+            </p>
+            <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', marginTop: '1rem', fontSize: '0.8rem' }}>
+              <Link href="/privacy">Privacy Policy</Link>
+              <Link href="/terms">Terms of Service</Link>
+            </div>
           </div>
         </footer>
       </body>
