@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Movie Review by Moneycal',
     description: 'The best movie reviews, analyses, and ratings.',
-    url: 'https://Movie Review by Moneycal-premium.example.com',
+    url: 'https://movie.moneycal.in',
     siteName: 'Movie Review by Moneycal',
     locale: 'en_US',
     type: 'website',

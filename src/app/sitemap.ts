@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { getSortedMoviePostsData } from '@/lib/posts';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://Movie Review by Moneycal-premium.example.com';
+  const baseUrl = 'https://movie.moneycal.in';
   const posts = getSortedMoviePostsData();
 
   const movieUrls = posts.map((post) => ({
