@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Privacy Policy',
-  description: 'Privacy Policy for CineReview Premium.',
+  description: 'Privacy Policy for Movie Review by Moneycal.',
 };
 
 export default function PrivacyPolicy() {
@@ -13,7 +13,7 @@ export default function PrivacyPolicy() {
         <p>Last updated: {new Date().toLocaleDateString()}</p>
         <h2>1. Introduction</h2>
         <p>
-          Welcome to CineReview Premium, a subsidiary of moneycal.in. We respect your privacy and are committed to protecting your personal data. 
+          Welcome to Movie Review by Moneycal, a subsidiary of moneycal.in. We respect your privacy and are committed to protecting your personal data. 
           This privacy policy will inform you as to how we look after your personal data when you visit our website.
         </p>
         <h2>2. Data Collection and Google AdSense</h2>

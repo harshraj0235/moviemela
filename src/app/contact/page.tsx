@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Contact Us',
-  description: 'Get in touch with the CineReview Premium team.',
+  description: 'Get in touch with the Movie Review by Moneycal team.',
 };
 
 export default function Contact() {
@@ -15,7 +15,7 @@ export default function Contact() {
         </p>
         <p>
           <strong>Email:</strong> contact@moneycal.in<br/>
-          <strong>Address:</strong> CineReview Premium (Subsidiary of moneycal.in)
+          <strong>Address:</strong> Movie Review by Moneycal (Subsidiary of moneycal.in)
         </p>
         <div style={{ marginTop: '3rem', padding: '2rem', border: '1px solid var(--glass-border)', borderRadius: '12px', background: 'var(--glass-bg)' }}>
           <h2 style={{marginTop: 0}}>Send us a message</h2>

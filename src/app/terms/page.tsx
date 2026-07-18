@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Terms of Service',
-  description: 'Terms of Service for CineReview Premium.',
+  description: 'Terms of Service for Movie Review by Moneycal.',
 };
 
 export default function TermsOfService() {
@@ -13,7 +13,7 @@ export default function TermsOfService() {
         <p>Last updated: {new Date().toLocaleDateString()}</p>
         <h2>1. Acceptance of Terms</h2>
         <p>
-          By accessing and using CineReview Premium (a subsidiary of moneycal.in), you accept and agree to be bound by the terms and provision of this agreement.
+          By accessing and using Movie Review by Moneycal (a subsidiary of moneycal.in), you accept and agree to be bound by the terms and provision of this agreement.
         </p>
         <h2>2. Use of Content</h2>
         <p>
@@ -22,7 +22,7 @@ export default function TermsOfService() {
         </p>
         <h2>3. Third-Party Links</h2>
         <p>
-          Our website may contain links to third-party web sites or services that are not owned or controlled by CineReview Premium. 
+          Our website may contain links to third-party web sites or services that are not owned or controlled by Movie Review by Moneycal. 
           We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third party web sites or services.
         </p>
         <h2>4. Changes to Terms</h2>
